@@ -1,6 +1,6 @@
 name: faraday-http-cache
 
-owner:  # team definitions at https://app.opslevel.com/teams
+owner: fenix # team definitions at https://app.opslevel.com/teams
 
 purpose: # multiple choice
   # - app
